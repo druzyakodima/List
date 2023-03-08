@@ -67,7 +67,6 @@ public class MyLinkedList<Item> {
     }
 
 
-
     public String toString() {
         StringBuilder s = new StringBuilder();
         Node currentNode = first;

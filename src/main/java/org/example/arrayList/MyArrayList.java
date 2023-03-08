@@ -11,7 +11,6 @@ public class MyArrayList<Item> {
     private int size = 0;
     private Object[] list = new Object[10];
 
-
     public int size() {
         return size;
     }

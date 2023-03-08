@@ -20,7 +20,6 @@ public class Main {
 
         System.out.println(list.indexOf("Vasy") + "\nsize = " + list.size());
 
-
         MyLinkedList<String> linkedList = new MyLinkedList<>();
 
         linkedList.add("Pety");
